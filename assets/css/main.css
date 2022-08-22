@@ -1,17 +1,5 @@
 @charset "UTF-8";
-/*================
- Template Name: Quiety - Software Technology & IT Solutions Saas HTML Template
- Description: Quiety creative Saas, software technology, Saas agency & business Bootstrap 5 Html template. It is best and famous software company and Saas website template.
- Version: 1.0
- Author: https://themeforest.net/user/themetags
-=======================*/
-/*!
- * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
-/* line 7, src/assets/scss/vendors/bootstrap.min.css */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -48984,7 +48972,7 @@ button.swiper-pagination-bullet {
   --bs-purple: #442772;
   --bs-dark-soft: #c9c7f7;
   --bs-dark-light: #071c4d;
-  --bs-dark: #0b163f;
+  --bs-dark: #334c3c;
   --bs-dark-dark: #010e2b;
   --body-color: #575757;
   --bs-light: #f7f9fc;
